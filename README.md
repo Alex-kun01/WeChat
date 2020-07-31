@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 仿写微信app 
+#### 版本：7.0.14
+
+### 技术栈：
+#### Vue + Vue-cli + Vue-Router + VueX + sass + ES6 + axios 
